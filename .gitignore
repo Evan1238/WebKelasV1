@@ -1,0 +1,15 @@
+node_modules
+dist
+.DS_Store
+android
+ios
+
+.env
+.env.local
+
+# Legacy Backup Files
+_legacy_backup/
+scratch/
+
+.agents
+DESIGN.md

@@ -1,0 +1,29 @@
+{
+  "name": "exomipa-xii-mipa-2",
+  "version": "2.0.0",
+  "description": "Website Resmi Kelas & Dedicated Portal Pengurus XII MIPA 2 SMA Negeri 1",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node server.js"
+  },
+  "keywords": [
+    "exomipa",
+    "school-portal",
+    "class-management",
+    "supabase",
+    "fullstack"
+  ],
+  "author": "Pengurus Kelas XII MIPA 2",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "vite": "^8.3.5"
+  }
+}

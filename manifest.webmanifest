@@ -1,0 +1,30 @@
+{
+  "name": "EXOMIPA XII MIPA 2 - Portal Resmi Kelas",
+  "short_name": "EXOMIPA",
+  "description": "Website resmi siswa kelas XII MIPA 2 SMA Negeri 1 Ruang A3. Direktori siswa, kas transparan, jadwal KBM, piket, dan mading digital.",
+  "start_url": "./app.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#ea580c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
