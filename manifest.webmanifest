@@ -1,7 +1,7 @@
 {
-  "name": "EXOMIPA XII MIPA 2 - Portal Resmi Kelas",
-  "short_name": "EXOMIPA",
-  "description": "Website resmi siswa kelas XII MIPA 2 SMA Negeri 1 Ruang A3. Direktori siswa, kas transparan, jadwal KBM, piket, dan mading digital.",
+  "name": "NEXUSS X TJKT 1 - Portal Resmi Kelas",
+  "short_name": "NEXUSS",
+  "description": "Website resmi siswa kelas X TJKT 1 SMK Negeri 1 Ruang 27. Direktori siswa, kas transparan, jadwal KBM, piket, dan mading digital.",
   "start_url": "./app.html",
   "display": "standalone",
   "background_color": "#f8fafc",

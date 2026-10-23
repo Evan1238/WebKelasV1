@@ -1,7 +1,7 @@
 {
-  "name": "exomipa-xii-mipa-2",
+  "name": "nexus-tjkt1",
   "version": "2.0.0",
-  "description": "Website Resmi Kelas & Dedicated Portal Pengurus XII MIPA 2 SMA Negeri 1",
+  "description": "Website Resmi Kelas & Dedicated Portal Pengurus X TJKT 1 SMK Negeri 1 Purbalingga",
   "private": true,
   "type": "module",
   "main": "server.js",
@@ -18,7 +18,7 @@
     "supabase",
     "fullstack"
   ],
-  "author": "Pengurus Kelas XII MIPA 2",
+  "author": "nexus-tjkt1",
   "license": "ISC",
   "dependencies": {
     "@vitejs/plugin-react": "^6.1.2",
